@@ -1,7 +1,7 @@
 const Header = () => {
     return (
-        <div>
-            <h1>This is the Header</h1>
+        <div className='headerComponent alignText'>
+            <h1>Ace Armor</h1>
         </div>
     )
 }

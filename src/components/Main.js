@@ -1,6 +1,6 @@
 const Main = () => {
     return (
-        <div>
+        <div className='alignText mainComponent'>
             <h1>This is the Main</h1>
         </div>
     )
