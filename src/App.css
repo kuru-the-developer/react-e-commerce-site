@@ -4,6 +4,14 @@
 body {
   background-color: #f0f0f0;
 }
+.announcementComponent {
+  background-color: rgb(196, 176, 68);
+}
+.announcementComponent > p {
+  color: white;
+  font-size: 22px;
+  padding: 20px;
+}
 .mainComponent {
   background-color: #adadad;
 }

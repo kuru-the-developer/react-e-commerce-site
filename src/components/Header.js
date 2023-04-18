@@ -1,7 +1,8 @@
 const Header = () => {
+    // Navigation bar would be in this component
     return (
         <div className='headerComponent alignText'>
-            <h1>Ace Armor</h1>
+            <h1>Place Navigation Bar Here. Read React Docs to Learn Best Practice</h1>
         </div>
     )
 }
